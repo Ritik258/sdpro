@@ -1,0 +1,15 @@
+.home {
+    display: inline;
+    margin-right: 1em;
+    color: rgb(4, 9, 13);
+    font-family: cursive;
+}
+
+body.intro {
+    background-color: rgb(255, 255, 255);
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+body.expectations {
+    background-color: rgb(199, 233, 233);
+}
